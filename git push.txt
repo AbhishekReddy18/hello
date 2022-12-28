@@ -1,0 +1,15 @@
+ssh-keygen -t rsa -b 4096 -C "email.com"
+
+clip < ~/.ssh/id_rsa.pub
+
+---------------------------------------------
+
+git init
+
+git add .
+
+git commit -m "first commit"
+
+git remote add origin (url of the repository)
+
+git push origin master
