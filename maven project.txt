@@ -1,0 +1,7 @@
+1) open eclipse
+
+2) click on file and open project
+
+3) and search apache.maven quickstart 1.4 in wizards and click next
+
+4) hence maven project is created
