@@ -5,3 +5,8 @@
 3) and search apache.maven quickstart 1.4 in wizards and click next
 
 4) hence maven project is created
+
+maven install
+maven test  
+maven build
+java application---
